@@ -30,6 +30,6 @@
 | `Write_Halfword_To_Flash()` | Записывает одно 16-разрядное слово |
 | `Erase_Sector_Flash()` | Стирает блок Flash |
 
-Автор статьи — **Илья Лампадов**. Раскладка блоков, захваты обмена и файлы поддержки доступны на портале Миландр. [Оригинальная статья][article].
+Автор статьи — **Илья Лампадов**. Раскладка блоков, захваты обмена и файлы поддержки доступны на портале Миландр (Milandr). [Оригинальная статья][article].
 
 [article]: https://support.milandr.ru/base/spravka/mikroskhemy-pamyati/postoyannye-zapominayushchie-ustroystva/60515/
